@@ -1,12 +1,12 @@
 # 🧪 Laboratório de Segmentação de Rede – Documentação Técnica
 
-Este repositório contém a documentação técnica de um **laboratório de segmentação de rede**, com foco em **análise de exposição, mapeamento de serviços** e **avaliação de riscos** em um ambiente de rede **simulado com múltiplos segmentos**.
+Este repositório contém a documentação técnica de um laboratório de segmentação de rede, com foco em análise de exposição, mapeamento de serviços avaliação de riscos em um ambiente de rede simulado com múltiplos segmentos.
 
 ---
 
 ## 📄 Sobre o Projeto
 
-O laboratório foi desenvolvido para fins acadêmicos e de capacitação técnica, utilizando ferramentas de análise e segurança de rede para avaliar a infraestrutura de um ambiente **Docker simulado** com as seguintes sub-redes:
+O laboratório foi desenvolvido para fins acadêmicos e de capacitação técnica, utilizando ferramentas de análise e segurança de rede para avaliar a infraestrutura de um ambiente Docker simulado com as seguintes sub-redes:
 
 - `corp_net`
 - `infra_net`
@@ -49,8 +49,8 @@ O laboratório foi desenvolvido para fins acadêmicos e de capacitação técnic
 
 ## ✅ Diagnóstico Realizado
 
-Foram identificados serviços como **FTP, MySQL, LDAP, SMB** e **interfaces web abertas** em múltiplos hosts.  
-A análise resultou em um **plano de ação baseado no princípio de Pareto (80/20)**, priorizando medidas de **alto impacto e fácil implementação**.
+Foram identificados serviços como FTP, MySQL, LDAP, SMB e interfaces web abertas em múltiplos hosts.  
+A análise resultou em um plano de ação baseado no princípio de Pareto (80/20) priorizando medidas de alto impacto e fácil implementação.
 
 ---
 
